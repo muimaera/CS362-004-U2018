@@ -1,7 +1,5 @@
 /* ============================================================
- * CS362-400 - Summer 2018
- * Mui Clark
- * Assignment 4 - Random test generator
+ *
  *              Card used: council_room
  * Reference: testCard code given in the course github repo &
  *            class notes
